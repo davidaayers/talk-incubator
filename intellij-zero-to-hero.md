@@ -51,7 +51,7 @@ Git support
 
 Research
 --------
-
+```
 Develop this talk for internal/external use
 Build it in modules/sections, so it can be used as a lightning talk (the lightning version should be something like “the five coolest things you didn’t know IntelliJ did”
 Cover keyboard shortcuts, auto complete blocks.
@@ -74,3 +74,4 @@ Things to cover
     Run Configuration Templates
     File Templates
     Local History
+```
