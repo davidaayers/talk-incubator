@@ -1,4 +1,4 @@
-INTELLIJ: ZERO TO HERO
+IntelliJ: Zero to Hero
 ======================
 
 Presented by: David Ayers<br>
@@ -10,11 +10,10 @@ This is a talk about learning IntelliJ, from the basics of leaning on IntelliJ t
 
 This repo contains the talk itself. The example project used in this talk is located here: https://github.com/davidaayers/emoji-cowsay
 
-TALK ABSTRACT
+Talk Abstract
 -------------
 
-
-TALK DESCRIPTION
+Talk Description
 ----------------
 
 
