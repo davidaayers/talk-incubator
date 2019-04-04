@@ -10,7 +10,7 @@ A talk about writing good commit messages, and why it's important.
 
 *This is a work-in-progress; probably should be in the incubator*
 
-TALK ABSTRACT
+Talk Abstract
 -------------
 
 Commit messages should be the story *behind* the code that you're writing, and taken as a whole, 
@@ -19,9 +19,9 @@ when done well, they provide anyone reading your code (including your future sel
 that guides them through those decisions and intentions.
 
 
-TALK DESCRIPTION
+Talk Description
 ----------------
 
 
-PHOTO CREDIT
+Photo Credit
 ------------
